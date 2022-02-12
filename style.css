@@ -1,0 +1,20 @@
+.heading {
+    font-size: 40px;
+    width: 80%;  
+  }
+  
+  body {
+      background-color:olivedrab;
+      color: white;
+  }
+  
+  #name {
+      color: blue;
+  }
+  
+  #camera {
+      border: 2px dashed darkslateblue;
+      width: 350px;
+     height: 350px;
+    
+  }
